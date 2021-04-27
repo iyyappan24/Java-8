@@ -92,6 +92,10 @@ public class streams {
 		System.out.println("min price"+min);
 		System.out.println("Names list");
 		li.forEach(e->System.out.println(e));
+
+
+
+                System.out.println("welcome to jungle");
 	}
 	
 }
